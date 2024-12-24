@@ -6,7 +6,7 @@ function showAdPopup() {
 
     // Check if the popup was blocked
     if (!popup || popup.closed || typeof popup.closed == 'undefined') {
-        alert("If you want to See That News . Please allow all.");
+        alert("If you want to See That News . Please Click OK then Click Always Show.");
     }
 }
 
